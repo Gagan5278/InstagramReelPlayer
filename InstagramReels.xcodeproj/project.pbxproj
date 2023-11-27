@@ -11,6 +11,19 @@
 		5DDC86412B149F4100687AC5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC86402B149F4100687AC5 /* ContentView.swift */; };
 		5DDC86432B149F4200687AC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DDC86422B149F4200687AC5 /* Assets.xcassets */; };
 		5DDC86462B149F4200687AC5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DDC86452B149F4200687AC5 /* Preview Assets.xcassets */; };
+		5DDC86502B14A0A100687AC5 /* Reel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC864F2B14A0A100687AC5 /* Reel.swift */; };
+		5DDC86522B14A1C300687AC5 /* Like.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC86512B14A1C300687AC5 /* Like.swift */; };
+		5DDC86542B14A24000687AC5 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC86532B14A24000687AC5 /* Home.swift */; };
+		5DDC86562B14A4A700687AC5 /* ReelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC86552B14A4A700687AC5 /* ReelView.swift */; };
+		5DDC86582B14A63B00687AC5 /* CustomVideoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC86572B14A63B00687AC5 /* CustomVideoPlayer.swift */; };
+		5DDC86632B14AA9C00687AC5 /* kidsfun.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5DDC865D2B14AA9B00687AC5 /* kidsfun.mov */; };
+		5DDC86642B14AA9C00687AC5 /* dance.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5DDC865E2B14AA9B00687AC5 /* dance.mov */; };
+		5DDC86652B14AA9C00687AC5 /* sunset.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5DDC865F2B14AA9C00687AC5 /* sunset.mov */; };
+		5DDC86662B14AA9C00687AC5 /* kidsdance.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5DDC86602B14AA9C00687AC5 /* kidsdance.mov */; };
+		5DDC86672B14AA9C00687AC5 /* riverflow.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5DDC86612B14AA9C00687AC5 /* riverflow.mov */; };
+		5DDC866A2B14ABE800687AC5 /* Bundle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC86692B14ABE800687AC5 /* Bundle+Extension.swift */; };
+		5DDC866C2B14BEC300687AC5 /* OffsetKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DDC866B2B14BEC300687AC5 /* OffsetKeys.swift */; };
+		5DDC86702B14C3E700687AC5 /* ansh.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5DDC866F2B14C3E700687AC5 /* ansh.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		5DDC86402B149F4100687AC5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5DDC86422B149F4200687AC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DDC86452B149F4200687AC5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5DDC864F2B14A0A100687AC5 /* Reel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reel.swift; sourceTree = "<group>"; };
+		5DDC86512B14A1C300687AC5 /* Like.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Like.swift; sourceTree = "<group>"; };
+		5DDC86532B14A24000687AC5 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		5DDC86552B14A4A700687AC5 /* ReelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReelView.swift; sourceTree = "<group>"; };
+		5DDC86572B14A63B00687AC5 /* CustomVideoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomVideoPlayer.swift; sourceTree = "<group>"; };
+		5DDC865D2B14AA9B00687AC5 /* kidsfun.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = kidsfun.mov; sourceTree = "<group>"; };
+		5DDC865E2B14AA9B00687AC5 /* dance.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = dance.mov; sourceTree = "<group>"; };
+		5DDC865F2B14AA9C00687AC5 /* sunset.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = sunset.mov; sourceTree = "<group>"; };
+		5DDC86602B14AA9C00687AC5 /* kidsdance.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = kidsdance.mov; sourceTree = "<group>"; };
+		5DDC86612B14AA9C00687AC5 /* riverflow.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = riverflow.mov; sourceTree = "<group>"; };
+		5DDC86692B14ABE800687AC5 /* Bundle+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+Extension.swift"; sourceTree = "<group>"; };
+		5DDC866B2B14BEC300687AC5 /* OffsetKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffsetKeys.swift; sourceTree = "<group>"; };
+		5DDC866F2B14C3E700687AC5 /* ansh.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ansh.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +77,11 @@
 		5DDC863D2B149F4100687AC5 /* InstagramReels */ = {
 			isa = PBXGroup;
 			children = (
-				5DDC863E2B149F4100687AC5 /* InstagramReelsApp.swift */,
-				5DDC86402B149F4100687AC5 /* ContentView.swift */,
+				5DDC86682B14ABDA00687AC5 /* Utils */,
+				5DDC86592B14A7A100687AC5 /* Resource */,
+				5DDC864E2B14A09700687AC5 /* Model */,
+				5DDC864D2B14A08D00687AC5 /* View */,
+				5DDC864C2B14A07D00687AC5 /* System */,
 				5DDC86422B149F4200687AC5 /* Assets.xcassets */,
 				5DDC86442B149F4200687AC5 /* Preview Content */,
 			);
@@ -65,6 +94,56 @@
 				5DDC86452B149F4200687AC5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5DDC864C2B14A07D00687AC5 /* System */ = {
+			isa = PBXGroup;
+			children = (
+				5DDC86402B149F4100687AC5 /* ContentView.swift */,
+				5DDC863E2B149F4100687AC5 /* InstagramReelsApp.swift */,
+			);
+			path = System;
+			sourceTree = "<group>";
+		};
+		5DDC864D2B14A08D00687AC5 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5DDC86532B14A24000687AC5 /* Home.swift */,
+				5DDC86552B14A4A700687AC5 /* ReelView.swift */,
+				5DDC86572B14A63B00687AC5 /* CustomVideoPlayer.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5DDC864E2B14A09700687AC5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5DDC864F2B14A0A100687AC5 /* Reel.swift */,
+				5DDC86512B14A1C300687AC5 /* Like.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5DDC86592B14A7A100687AC5 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				5DDC866F2B14C3E700687AC5 /* ansh.mov */,
+				5DDC865E2B14AA9B00687AC5 /* dance.mov */,
+				5DDC86602B14AA9C00687AC5 /* kidsdance.mov */,
+				5DDC865D2B14AA9B00687AC5 /* kidsfun.mov */,
+				5DDC86612B14AA9C00687AC5 /* riverflow.mov */,
+				5DDC865F2B14AA9C00687AC5 /* sunset.mov */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		5DDC86682B14ABDA00687AC5 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				5DDC86692B14ABE800687AC5 /* Bundle+Extension.swift */,
+				5DDC866B2B14BEC300687AC5 /* OffsetKeys.swift */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +204,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DDC86662B14AA9C00687AC5 /* kidsdance.mov in Resources */,
+				5DDC86642B14AA9C00687AC5 /* dance.mov in Resources */,
+				5DDC86702B14C3E700687AC5 /* ansh.mov in Resources */,
+				5DDC86652B14AA9C00687AC5 /* sunset.mov in Resources */,
 				5DDC86462B149F4200687AC5 /* Preview Assets.xcassets in Resources */,
+				5DDC86672B14AA9C00687AC5 /* riverflow.mov in Resources */,
 				5DDC86432B149F4200687AC5 /* Assets.xcassets in Resources */,
+				5DDC86632B14AA9C00687AC5 /* kidsfun.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +222,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DDC86582B14A63B00687AC5 /* CustomVideoPlayer.swift in Sources */,
+				5DDC86562B14A4A700687AC5 /* ReelView.swift in Sources */,
 				5DDC86412B149F4100687AC5 /* ContentView.swift in Sources */,
+				5DDC866A2B14ABE800687AC5 /* Bundle+Extension.swift in Sources */,
+				5DDC86502B14A0A100687AC5 /* Reel.swift in Sources */,
+				5DDC86542B14A24000687AC5 /* Home.swift in Sources */,
+				5DDC86522B14A1C300687AC5 /* Like.swift in Sources */,
+				5DDC866C2B14BEC300687AC5 /* OffsetKeys.swift in Sources */,
 				5DDC863F2B149F4100687AC5 /* InstagramReelsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
