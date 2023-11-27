@@ -2,6 +2,10 @@
 An example of playing in reels/videos like Instagram app.
 
 Video plays when the view is in the centre of the device or covers half of the device's width.
+Video like feature when double-tapped on anywhere on the screen.
+Like animation on double-tap.
+Remove like on tapping the heart button.
+
 
 ## Youtube link:
 https://youtu.be/GaDGBJdahXw 
